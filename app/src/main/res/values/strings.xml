@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">TeneoTermAndroid</string>
+    <string name="hOrder">Pořadí</string>
+    <string name="hName">Název</string>
+    <string name="hNOp">Počet</string>
+    <string name="hOrderLine">VP řada:</string>
+    <string name="hOrderNum">VP číslo:</string>
+    <string name="hPart">Výrobek</string>
+    <string name="hPartCode">Kód:</string>
+    <string name="hPartName">Název:</string>
+    <string name="hPartVersion">Verze:</string>
+    <string name="hPartSerNum">Výrobní číslo</string>
 </resources>
